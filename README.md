@@ -14,6 +14,8 @@ If you use these pipeline, please cite:
 ## Pipeline
 *[PLINK](https://www.cog-genomics.org/plink/1.9/) version*: 1.9. 
 
+**Input and output formats**: binary PLINK files (.bed, .bim, .fam)
+
 Run the following command:
 ```bash
 sh filtering.sh
